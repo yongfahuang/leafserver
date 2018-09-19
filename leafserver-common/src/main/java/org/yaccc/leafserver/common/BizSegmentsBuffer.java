@@ -8,6 +8,7 @@ import java.util.concurrent.atomic.AtomicReferenceArray;
 /**
  * Created by xiezhaodong  on 2018/2/13
  */
+//test huang
 
 @Data
 public class BizSegmentsBuffer {
